@@ -1,0 +1,13 @@
+identifier: k6w3b4y02165lb2e
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: >-
+  /Volumes/Seagate_Haykay/ANGULAR_PROJECTS/SPA-App-with-Scully-and-Angular-Router/my-blog
+distFolder: dist/my-blog
+outDir: >-
+  /Volumes/Seagate_Haykay/ANGULAR_PROJECTS/SPA-App-with-Scully-and-Angular-Router/my-blog/dist/static
+handle404: ''
+allowErrorCollect: true
